@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine Translation and Knowledge Distillation
 - 💞️ I’m looking to collaborate on NLP related interesting projects
 - 📫 Reach me at anmfahimfaisal@gmail.com
+- ![](https://komarev.com/ghpvc/?username=anmfahimfaisal&color=green)
 
 <!---
 anmfahimfaisal/anmfahimfaisal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
